@@ -1,0 +1,12 @@
+# Murano product specification -- Davicore truck
+
+-   alias: temperature
+    format: float
+-   alias: uptime
+    format: integer
+-   alias: GPS
+    format: string
+-   alias: starttime
+    format: integer
+-   alias: endtime
+    format: integer

@@ -1,5 +1,6 @@
 # Murano product specification -- Davicore truck
 
+resources:
 -   alias: temperature
     format: float
 -   alias: uptime
